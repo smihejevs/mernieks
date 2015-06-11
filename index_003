@@ -1,0 +1,22 @@
+<!DOCTYPE html> <!-- декларация HTML документа. Должна быть на первой строчке -->
+<html> <!-- корневой элемент HTML документа. Единственный внешний элемент. Все содержимое пишется внутри этого элемента -->
+	<head>
+    <meta charset="utf-8" /> <!-- заголовочный блок HTML документа. Размещается техническая информация о документе. Как правило, не видна для обычного пользователя. -->
+		<title>New document</title> <!-- заголовок HTML документа. Отображается в заголовке браузера, табе, закладках и пр. -->
+	</head>
+	<body> <!-- тело HTML документа. Содержит то, что должно отображаться на странице. -->
+		<h1>Lorem ipsun</h1> <!-- Заголовок первого уровня -->
+		<p>Lorem ipsum dolor sit amet,
+       consectetur adipisicing elit, sed do eiusmod temp
+       or incididunt ut labore et dolore magna aliqua. Ut enim ad
+        minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip e
+        x ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit ess
+        e cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in 
+      culpa qui officia deserunt mollit anim id est laborum. <!--  Абзац -->
+			This is my first HTML document.
+		</p>
+		<p> <!-- Еще абзац -->
+			This is second paragraph.
+		</p>
+	</body>
+</html>
