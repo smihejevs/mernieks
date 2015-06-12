@@ -3,20 +3,52 @@
 	<head>
     <meta charset="utf-8" /> <!-- заголовочный блок HTML документа. Размещается техническая информация о документе. Как правило, не видна для обычного пользователя. -->
 		<title>New document</title> <!-- заголовок HTML документа. Отображается в заголовке браузера, табе, закладках и пр. -->
+		<link rel="stylesheet" href="style.css" />
 	</head>
 	<body> <!-- тело HTML документа. Содержит то, что должно отображаться на странице. -->
-		<h1>Lorem ipsun</h1> <!-- Заголовок первого уровня -->
-		<p>Lorem ipsum dolor sit amet,
-       consectetur adipisicing elit, sed do eiusmod temp
-       or incididunt ut labore et dolore magna aliqua. Ut enim ad
-        minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip e
-        x ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit ess
-        e cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in 
-      culpa qui officia deserunt mollit anim id est laborum. <!--  Абзац -->
-			This is my first HTML document.
-		</p>
-		<p> <!-- Еще абзац -->
-			This is second paragraph.
-		</p>
+		<h1>Mernieks</h1> <!-- Заголовок первого уровня -->
+				<header>
+							<img src="Mernieks_01.png">
+			<ul class="menu">
+				<li><a href="#"> Sakums </a> </li>
+				<li><a href="#"> Pakalpojumi </a> </li>
+				<li><a href="#"> Par mums </a> </li>
+				<li><a href="#"> Klienti </a> </li>
+				<li><a href="#"> Kontakti </a> </li>
+			</ul>
+
+			<ul class="lang">
+				<li><a href="#"> ru </a> </li>
+				<li><a href="#"> en </a> </li>
+			</ul>
+		</header>
+		<section>
+			<h1>Mērnieciba</h1>
+				<p> Zemesgabalu robežu uzmerisana zemes un buvju registracijai </p>
+
+			<section>
+				<ul class="pakal">
+				<li><a href="#"> PAKALPOJUMI </a> </li>
+				<div>
+				<ul>
+				<li><a href="#"> geologija </a> </li>
+				<li><a href="#"> topograf </a> </li>
+				<li><a href="#"> Apakszemes </a> </li>
+				<li><a href="#"> situacija </a> </li>
+				<li><a href="#"> buvasu </a> </li>
+				<li><a href="#"> konstrukcija </a> </li>
+			</ul>
+			<ul>
+				<li><a href="#"> mernieciba </a> </li>
+				<li><a href="#"> zemesgabals </a> </li>
+				<li><a href="#"> zemesgabala robez </a> </li>
+				<li><a href="#"> atkartota </a> </li>
+				<li><a href="#"> mernieciba </a> </li>
+				<li><a href="#"> mernieciba </a> </li>
+				<li><a href="#"> mernieciba </a> </li>
+				<li><a href="#"> mernieciba </a> </li>
+				<ul>
+				<li><a href="#"> zemes iericiba </a> </li>
 	</body>
 </html>
+<div>
