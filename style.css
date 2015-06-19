@@ -1,19 +1,57 @@
 .menu li {
   display: inline-block;
 }
+.menuu{
+  float: right;
+
+}
+.menu, .lang {
+  display: inline-block;
+    vertical-align: top;
+
+}
+.menu{
+  border-right: 1px solid white ;
+  padding-right: 10px;
+}
+
 .lang li {
   display: inline-block;
+  float: right;
 }
 .pakal li {
   display: inline-block;
 }
 .hwrap {
-  background: #473a2d
+  background: #473a2d;
+  width: 1500px;
+  height: 70px;
+    margin: 0;
 }
-.header {
-  width: 15 margin: 0
+
+.box {
+  width: 200px;
+  height 200px;
 }
-.block {
-  width: 5px
-  height 5px
+.kolon {
+  width: 200px;
+  display: inline-block;
+  vertical-align: top;
+}
+.text {
+  width: 200px;
+  display: inline-block;
+  vertical-align: top;
+}
+.tabl {
+  width: 200px;
+  display: inline-block;
+  vertical-align: top;
+}
+.fon {
+  background: #473a2d;
+}
+.atst {
+border-bottom: 1px solid black;
+padding-bottom: 10px;
 }
