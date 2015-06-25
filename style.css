@@ -1,3 +1,10 @@
+body {
+  margin: 0;
+}
+.total_wrap {
+  margin: auto;
+  width: 1200px;
+}
 .menu li {
   display: inline-block;
 }
@@ -24,9 +31,10 @@
 }
 .hwrap {
   background: #473a2d;
-  width: 1500px;
-  height: 70px;
-    margin: 0;
+  width: 1200px;
+  height: 94px;
+  font-size: 14px;
+  margin: 0 auto;
 }
 
 .box {
@@ -49,9 +57,12 @@
   vertical-align: top;
 }
 .fon {
-  background: #473a2d;
+  background: #f2ebe1;
 }
 .atst {
 border-bottom: 1px solid black;
 padding-bottom: 10px;
 }
+.texts {
+color:#532
+  }
